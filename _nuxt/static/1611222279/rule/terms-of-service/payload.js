@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/rule/terms-of-service", {data:[{},{}],fetch:[],mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/rule/building-clause", {data:[{},{}],fetch:[],mutations:void 0});
