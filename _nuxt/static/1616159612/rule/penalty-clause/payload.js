@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/rule/penalty-clause", {data:[{},{}],fetch:[],mutations:void 0});
